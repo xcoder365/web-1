@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background: rgb(6, 207, 50);
+    font-family: sans-serif ;
+    background-image: url(background1.PNG);
+    width: 100px;
+    height: 100px;
+}
+
+div#nav {
+   
+    margin: auto;
+    width: 750px;
+    position: relative;
+    
+}
+div#nav ul {
+  list-style: none;
+  width: 450px;
+  left: 150px;
+  
+  
+}
+div#nav li{
+    float: left;
+    width: 100px;
+    
+}
+
+div#nav li a {
+    background-repeat: none;
+    display: block;
+    height: 30px;
+    text-decoration: none;
+    background: red;
+    
+}
+
+
+
+ul {
+ 
+ font-size: 20px;
+ font-style: bold;
+ margin-left: 100px;
+}
+
+
+    
+
+
+
